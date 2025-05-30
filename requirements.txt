@@ -1,5 +1,0 @@
-Kaggle
-numpy
-pandas
-matplotlib
-scikit-learn

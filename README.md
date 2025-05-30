@@ -1,1 +1,0 @@
-# Kaggleコンペのnotebookの肥溜め
